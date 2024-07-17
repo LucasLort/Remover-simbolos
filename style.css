@@ -3,13 +3,14 @@ body {
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-position: center;
-  background-position-y: 50px;
+  background-position-y: center;
 }
 
 div {
   background: #48d1cc;
   border-radius: 50px;
   margin: 0 auto;
+  background-repeat: no-repeat;
   max-width: 900px;
   padding-top: 10px;
   padding-bottom: 30px;
@@ -34,7 +35,7 @@ h2 {
 
 h3 {
   font-size: 30px;
-  margin: 100px 0;
+  margin: 150px 0;
 }
 
 p {
