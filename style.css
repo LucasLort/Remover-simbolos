@@ -1,0 +1,42 @@
+body {
+  background-image: url(https://grupoking.com.br/wp-content/uploads/2023/08/c9299b4085337a821181e090ba5f1309-caduceu-detalhado-monocromatico.png);
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position-y: 50px;
+}
+
+div {
+  background: #48d1cc;
+  border-radius: 50px;
+  margin: 0 auto;
+  max-width: 900px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+h1,
+h2,
+h3,
+p {
+  text-align: center;
+  color: black;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+h2 {
+  font-size: 35px;
+  margin-top: 80px;
+}
+
+h3 {
+  font-size: 30px;
+  margin: 100px 0;
+}
+
+p {
+  font-size: 35px;
+}
